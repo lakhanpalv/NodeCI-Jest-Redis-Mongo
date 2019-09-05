@@ -1,2 +1,2 @@
-# AdvancedNodeStarter
-Starting project for a course on Advanced Node @ Udemy
+# A Node Project
+A Node project with React, Nodejs, ExpresJS, Jest, Redish, Mongodb and Trvis or Countinous Intigration testing.
